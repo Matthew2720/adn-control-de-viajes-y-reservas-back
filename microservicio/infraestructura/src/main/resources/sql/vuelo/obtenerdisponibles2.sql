@@ -1,0 +1,2 @@
+--AND fecha_salida > DATE_ADD(NOW(), INTERVAL 1 DAY);
+--AND fecha_salida > DATEADD('DAY', 1, CURRENT_TIMESTAMP);
